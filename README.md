@@ -1,4 +1,4 @@
-# 🚀 Python Projects Portfolio
+# 🚀 Python Projects 
 
 Welcome to my Python Projects repository!  
 This repository showcases my daily hands-on projects focused on building practical skills in Python, automation, and real-world problem-solving.
